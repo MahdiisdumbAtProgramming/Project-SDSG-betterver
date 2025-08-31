@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         location.href = "contact/run.html"; // Redirects to the contact page
     };
     document.getElementById("changelogs").onclick = function () {
-        location.href = "changelogs/run.html"; // Redirects to the changelogs page
+alert('why would thier be any change logs if there is no games to play');
     };
     document.getElementById("gameOG").onclick = function () {
 alert('ya dont get this either');
