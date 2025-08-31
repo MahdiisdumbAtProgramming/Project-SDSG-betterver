@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
         location.href = "changelogs/run.html"; // Redirects to the changelogs page
     };
     document.getElementById("gameOG").onclick = function () {
-        location.href = "assets/legacy(WIFI)/run.html"; // Redirects to the legacy path
+alert('ya dont get this either');
     };
     document.getElementById("status").onclick = function () {
         location.href = "./status/status"; // Redirects to the legacy path
